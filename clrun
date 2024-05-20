@@ -1,0 +1,3 @@
+rm -rf polar_1.txt
+rm -rf dum*
+./xfoil.exe < xf_scr
